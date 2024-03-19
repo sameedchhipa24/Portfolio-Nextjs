@@ -4,7 +4,7 @@ import Image from "next/image";
 import { Download, Linkedin } from "lucide-react";
 import { MovingBorderDemo } from "./Accernityui/Button1";
 import { Typewriter } from "react-simple-typewriter";
-import { WavyBackground } from '../ui/wavy-background';
+
 
 const handleType = (count: number) => {
   // access word count number
